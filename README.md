@@ -1,3 +1,4 @@
+
 # Factory Method - Ejemplo de UI Multiplataforma
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
@@ -14,4 +15,7 @@ Una aplicación necesita ejecutarse en diferentes plataformas (Windows, HTML). A
 - Encapsular la creación de objetos
 - Desacoplar el código cliente de las clases concretas
 - Añadir nuevas plataformas sin modificar el código existente
+
+Ejemplo del patrón Factory Method para interfaces multiplataforma. Tomado de: Refactoring Guru. https://refactoring.guru/es/design-patterns/factory-method/java/example#example-0--buttons-Button-java
+
 
