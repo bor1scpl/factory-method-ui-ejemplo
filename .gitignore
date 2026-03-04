@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+out/
+bin/
+build/
+target/
+
+# VS Code temporary files
+tempCodeRunnerFile
+tempCodeRunnerFile.*
+*.tmp
+*.temp
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
